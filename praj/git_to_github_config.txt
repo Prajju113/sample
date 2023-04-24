@@ -8,7 +8,8 @@
 
 4. git remote add origin "link"
 
-
-4 git push -u origin master
+5 git push -u origin master
 	username --> prajju113
 	password --> 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
+
+
